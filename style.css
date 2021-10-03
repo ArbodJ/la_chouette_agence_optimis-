@@ -197,7 +197,9 @@ a:hover {
 .l-bloc {
     color: rgba(0, 0, 0, .5);
 }
-
+.prtfolio{
+    font-size: 20px;
+}
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
     color: rgba(0, 0, 0, .7);
@@ -677,7 +679,13 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
+}
+.avis{
+    font-weight: bold;
+}
+.avis2{
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -822,7 +830,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
